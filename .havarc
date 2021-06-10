@@ -1,1 +1,1 @@
-SCRIPTS_DIR=examples/complete-vpc
+SCRIPTS_DIR=examples/vpc-flow-logs
